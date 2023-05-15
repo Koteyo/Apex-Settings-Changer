@@ -152,9 +152,5 @@ bottone_aggiorna.pack(pady=20)
 bottone_aggiorna = tk.Button(finestra, text="Controlla versione", command=check_for_updates)
 bottone_aggiorna.pack(pady=20)
 
-# Creazione del pulsante di controllo degli aggiornamenti
-bottone_aggiorna = tk.Button(finestra, text="Update Test", command=check_for_updates)
-bottone_aggiorna.pack(pady=20)
-
 # Avvio del ciclo di eventi della finestra
 finestra.mainloop()
