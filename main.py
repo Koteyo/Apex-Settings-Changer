@@ -3,6 +3,7 @@ from tkinter import messagebox
 from tkinter import simpledialog
 import shutil
 import os.path
+import requests
 
 def carica_impostazioni_luca():
     origine_profile = r"C:\Users\lucad\OneDrive\Documenti\Apex Settings\Luca\profile.cfg"
@@ -106,10 +107,35 @@ class AccountDialog(simpledialog.Dialog):
         self.result = "Matteo"
         self.ok()
 
+
+def get_latest_version():
+    repo_owner = "Koteyo"
+    repo_name = "Apex-Settings-Changer"
+    api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/releases/latest"
+
+    try:
+        response = requests.get(api_url)
+        response.raise_for_status()
+        data = response.json()
+        latest_version = data["tag_name"]
+        return latest_version
+    except (requests.RequestException, KeyError):
+        return None
+
+def check_for_updates():
+    current_version = "1.0.0"  # Your current version
+    latest_version = get_latest_version()
+
+    if latest_version and latest_version > current_version:
+        messagebox.showinfo("Aggiornamento disponibile", f"È disponibile una nuova versione ({latest_version}).")
+    else:
+        messagebox.showinfo("Aggiornamento", "Il programma è aggiornato alla versione più recente.")
+
+
 # Creazione della finestra principale
 finestra = tk.Tk()
 finestra.title("Apex settings changer")
-finestra.geometry("300x200")  # Dimensioni della finestra (opzionale)
+finestra.geometry("300x300")  # Dimensioni della finestra (opzionale)
 
 # Creazione dei bottoni
 bottone_luca = tk.Button(finestra, text="Carica impostazioni Luca", command=carica_impostazioni_luca)
@@ -119,6 +145,10 @@ bottone_matteo = tk.Button(finestra, text="Carica impostazioni Matteo", command=
 bottone_matteo.pack()
 
 bottone_aggiorna = tk.Button(finestra, text="Aggiorna file di origine", command=aggiorna_file_origine)
+bottone_aggiorna.pack(pady=20)
+
+# Creazione del pulsante di controllo degli aggiornamenti
+bottone_aggiorna = tk.Button(finestra, text="Controlla versione", command=check_for_updates)
 bottone_aggiorna.pack(pady=20)
 
 # Avvio del ciclo di eventi della finestra
