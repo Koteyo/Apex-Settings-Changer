@@ -4,6 +4,7 @@ from tkinter import simpledialog
 import shutil
 import os.path
 import requests
+import chardet
 
 def carica_impostazioni_luca():
     origine_profile = r"C:\Users\lucad\OneDrive\Documenti\Apex Settings\Luca\profile.cfg"
