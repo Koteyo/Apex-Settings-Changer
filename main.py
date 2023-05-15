@@ -4,7 +4,7 @@ from tkinter import simpledialog
 import shutil
 import os.path
 import requests
-import chardet
+import sys
 
 def carica_impostazioni_luca():
     origine_profile = r"C:\Users\lucad\OneDrive\Documenti\Apex Settings\Luca\profile.cfg"
@@ -108,11 +108,8 @@ class AccountDialog(simpledialog.Dialog):
         self.result = "Matteo"
         self.ok()
 
-
 def get_latest_version():
-    repo_owner = "Koteyo"
-    repo_name = "Apex-Settings-Changer"
-    api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/releases/latest"
+    api_url = "https://api.github.com/repos/Koteyo/Apex-Settings-Changer/releases/latest"
 
     try:
         response = requests.get(api_url)
@@ -124,14 +121,61 @@ def get_latest_version():
         return None
 
 def check_for_updates():
-    current_version = "1.0.0"  # Your current version
+    current_version = "1.0.0"  # La tua versione corrente
     latest_version = get_latest_version()
 
     if latest_version and latest_version > current_version:
         messagebox.showinfo("Aggiornamento disponibile", f"È disponibile una nuova versione ({latest_version}).")
+
+        download_url = get_download_url()
+        download_and_install_package(download_url)
+        messagebox.showinfo("Aggiornamento completato", "L'applicazione è stata aggiornata alla nuova versione.")
+
+        # Riavvia il programma con la nuova versione
+        restart_program()
+
     else:
         messagebox.showinfo("Aggiornamento", "Il programma è aggiornato alla versione più recente.")
 
+def get_download_url():
+    api_url = "https://api.github.com/repos/Koteyo/Apex-Settings-Changer/releases/latest"
+
+    try:
+        response = requests.get(api_url)
+        response.raise_for_status()
+        data = response.json()
+        assets = data.get("assets", [])
+        if assets:
+            # Assume che il primo asset sia il pacchetto da scaricare
+            download_url = assets[0].get("browser_download_url")
+            return download_url
+
+    except (requests.RequestException, KeyError):
+        return None
+
+def download_and_install_package(download_url):
+    if not download_url:
+        messagebox.showerror("Errore", "URL di download non disponibile.")
+        return
+
+    try:
+        response = requests.get(download_url)
+        response.raise_for_status()
+
+        # Specifica il percorso e il nome del file di destinazione
+        destination_path = os.path.join(os.path.expanduser("~"), "Downloads", "Apex_Settings_Changer.zip")
+
+        with open(destination_path, "wb") as file:
+            file.write(response.content)
+
+        # Aggiungi qui il codice per l'estrazione o l'installazione del pacchetto
+
+    except requests.RequestException as e:
+        messagebox.showerror("Errore", f"Errore durante il download: {e}")
+
+def restart_program():
+    python = sys.executable
+    os.execl(python, python, *sys.argv)
 
 # Creazione della finestra principale
 finestra = tk.Tk()

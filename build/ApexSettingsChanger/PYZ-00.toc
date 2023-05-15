@@ -1,0 +1,890 @@
+('C:\\Users\\Luca De Bar\\Documents\\Github\\Apex Settings '
+ 'Changer\\build\\ApexSettingsChanger\\PYZ-00.pyz',
+ [('inspect',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\random.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copy.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\struct.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('chardet',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.utf1632prober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\utf1632prober.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachinedict',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\codingstatemachinedict.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.johabfreq',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\johabfreq.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.johabprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\johabprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.macromanprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\macromanprober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.resultdict',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\resultdict.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.assets',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Luca De '
+   'Bar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\constants.py',
+   'PYMODULE')])
